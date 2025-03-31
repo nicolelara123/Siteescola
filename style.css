@@ -1,2 +1,7 @@
-.cabeçalho {background-color: rgb(140, 51, 223); color: #000; display: flex; justify-content: center;}
+.cabeçalho {background-color: rgb(106, 72, 138); color: #000; display: flex; justify-content: center;}
 .imagem-logo{width: 20%;}
+
+.sobre-loja{
+    background-color: rgb(202, 159, 243);
+    color: #000;
+}
