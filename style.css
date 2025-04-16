@@ -1,7 +1,14 @@
-.cabeçalho {background-color: rgb(106, 72, 138); color: #000; display: flex; justify-content: center;}
-.imagem-logo{width: 20%;}
+.cabeçalho {background-color: rgb(106, 72, 138);
+ color: #000;
+ display: flex; 
+ justify-content: center;}
+.imagem-logo{
+    width: 20%;
+}
 
 .sobre-loja{
-    background-color: rgb(202, 159, 243);
+    background-image: linear-gradient(#9783a2,#685684);
     color: #000;
+    padding: 24px 0;
 }
+  
